@@ -17,14 +17,12 @@ Algoritma dari Source code ini yaitu :
 6.Apabila nilai tadi habis dibagi 3,5 dan 7, maka nilai tidak akan ditampilkan. apabila tidak habis. tampilkan kembali kepada user
 
 ## Source Code
-#include <iostream>
-using namespace std;
 
-void garis(){
-cout << "=======================================" << endl;}
-
-int main (){
-	
+	#include <iostream>
+	using namespace std;
+	void garis(){
+	cout << "=======================================" << endl;}
+	int main (){
 	garis();
 	int A [20][20];
 	int b, k, i, j;
