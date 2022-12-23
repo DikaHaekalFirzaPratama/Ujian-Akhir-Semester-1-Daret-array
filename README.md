@@ -8,13 +8,12 @@
 Tema utama dari source code yang satu ini adalah untuk membuat array dalam implementasi deret aritmatika.
 Tujuan utama dari source code ini adalah untuk mencari bilangan yang tidak habis dibagi angka 3,5 dan 7
 Algoritma dari Source code ini yaitu :
-
-1.User menginputkan berapa banyak baris pada array mulai dari range 0-20.
-2.User menginputkan berapa banyak baris pada array mulai dari range 0-20.
-3.User menginputkan satu persatu nilai array,dimulai dari baris 1 dan kolom 1.
-4.Jika sudah,Nilai dalam array tersebut di tampilkan sesuai aturan matriks.
-5.Kemudian nilai divalidasi kembali apakah nilai tersebut habis dibagi 3,5 dan 7.
-6.Apabila nilai tadi habis dibagi 3,5 dan 7, maka nilai tidak akan ditampilkan. apabila tidak habis. tampilkan kembali kepada user
+1. User menginputkan berapa banyak baris pada array mulai dari range 0-20.
+2. User menginputkan berapa banyak baris pada array mulai dari range 0-20.
+3. User menginputkan satu persatu nilai array,dimulai dari baris 1 dan kolom 1.
+4. Jika sudah,Nilai dalam array tersebut di tampilkan sesuai aturan matriks.
+5. Kemudian nilai divalidasi kembali apakah nilai tersebut habis dibagi 3,5 dan 7.
+6. Apabila nilai tadi habis dibagi 3,5 dan 7, maka nilai tidak akan ditampilkan. apabila tidak habis. tampilkan kembali kepada user
 
 ## Source Code
 
@@ -59,7 +58,7 @@ Algoritma dari Source code ini yaitu :
 	for(int i = 0; i < index; i++){
 		cout<<angka[i]<<" ";
 	}
-}
+	}
 
 ## Output
 ![uas deret array](https://user-images.githubusercontent.com/121142632/209270125-8745f550-7def-43ac-92ce-5faf0d8f80f0.png)
